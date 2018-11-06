@@ -1,5 +1,7 @@
 # angularjs-webpack-express-starter
 
+`This repo is under maintenance`
+
 A Starter for AngularJS using Webpack, Express and ES6
 
 This repo only support AngularJS (angular 1.x)  and Webpack 2.x
